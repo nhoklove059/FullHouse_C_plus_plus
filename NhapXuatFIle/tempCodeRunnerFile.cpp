@@ -1,0 +1,2 @@
+
+    char *t = strtok(s, " ");
